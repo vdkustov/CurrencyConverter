@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string name="btn_convert">Convert to</string>
+    <string name="btn_reset">Reset All</string>
+    <string name="tv_date">Last update: $DATE</string>
+    <string name="menu_item_refresh">Refresh</string>
+
+    <string name="hint_et_input">Input here&#8230;</string>
+    <string name="hint_et_output">0</string>
+
+    <string name="msg_empty">Empty input field</string>
+    <string name="msg_no_connection">No network connection</string>
+
+    <string name="spn_last_item">(RUR) Российский Рубль</string>
+</resources>
